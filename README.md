@@ -2,10 +2,8 @@
 
 Hello there!
 
-Not sure how you have stumbled across this, but welcome!
+Welcome!
 
-I will be using this Github account for schoolwork and associated projects, nothing very exciting for random visits.
-
-This is just for setting up my Github account, and to learn how it functions a little more.
+I will be using this Github account for schoolwork and associated projects, as well as a tool for networking in the IT/Cyber Security world.
 
 Thanks for stopping by!
